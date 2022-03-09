@@ -1,0 +1,12 @@
+[2022-03-09 02:49:09,640][test_01_get_user_info.py 37][INFO]: *************** 开始执行用例 ***************
+[2022-03-09 02:49:09,641][test_01_get_user_info.py 10][INFO]: 步骤1 ==>> 获取所有用户信息
+[2022-03-09 02:49:09,641][rest_client.py 51][INFO]: 接口请求地址 ==>> http://127.0.0.1:10010/users
+[2022-03-09 02:49:09,641][rest_client.py 52][INFO]: 接口请求方式 ==>> GET
+[2022-03-09 02:49:09,641][rest_client.py 54][INFO]: 接口请求头 ==>> null
+[2022-03-09 02:49:09,641][rest_client.py 55][INFO]: 接口请求 params 参数 ==>> null
+[2022-03-09 02:49:09,641][rest_client.py 56][INFO]: 接口请求体 data 参数 ==>> null
+[2022-03-09 02:49:09,641][rest_client.py 57][INFO]: 接口请求体 json 参数 ==>> null
+[2022-03-09 02:49:09,641][rest_client.py 58][INFO]: 接口上传附件 files 参数 ==>> None
+[2022-03-09 02:49:09,641][rest_client.py 59][INFO]: 接口 cookies 参数 ==>> null
+[2022-03-09 02:49:09,788][test_01_get_user_info.py 43][INFO]: code ==>> 期望结果：0， 实际结果：0
+[2022-03-09 02:49:09,789][test_01_get_user_info.py 46][INFO]: *************** 结束执行用例 ***************

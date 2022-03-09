@@ -1,0 +1,126 @@
+{
+  "uid" : "fe06cfc0fff48b47",
+  "name" : "test_get_all_user_info[True-0-查询成功]",
+  "fullName" : "testcases.api_test.test_01_get_user_info.TestGetUserInfo#test_get_all_user_info",
+  "historyId" : "8fa120af048dc3f86b08ef0469022873",
+  "time" : {
+    "start" : 1646765150763,
+    "stop" : 1646765150780,
+    "duration" : 17
+  },
+  "description" : "该用例是针对获取所有用户信息接口的测试",
+  "descriptionHtml" : "<p>该用例是针对获取所有用户信息接口的测试</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "该用例是针对获取所有用户信息接口的测试",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1 ==>> 获取所有用户信息",
+      "time" : {
+        "start" : 1646765150763,
+        "stop" : 1646765150763,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "d0e2a8d78ed75c0c",
+      "name" : "log",
+      "source" : "d0e2a8d78ed75c0c.txt",
+      "type" : "text/plain",
+      "size" : 892
+    }, {
+      "uid" : "5b5fc6b4be6c160e",
+      "name" : "stderr",
+      "source" : "5b5fc6b4be6c160e.txt",
+      "type" : "text/plain",
+      "size" : 1145
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "用例--获取全部用户信息"
+  }, {
+    "name" : "feature",
+    "value" : "获取用户信息模块"
+  }, {
+    "name" : "severity",
+    "value" : "trivial"
+  }, {
+    "name" : "epic",
+    "value" : "针对单个接口的测试"
+  }, {
+    "name" : "tag",
+    "value" : "single"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.api_test"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_get_user_info"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGetUserInfo"
+  }, {
+    "name" : "host",
+    "value" : "zxldeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "95218-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.api_test.test_01_get_user_info"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "except_code",
+    "value" : "0"
+  }, {
+    "name" : "except_msg",
+    "value" : "'查询成功'"
+  }, {
+    "name" : "except_result",
+    "value" : "True"
+  } ],
+  "links" : [ {
+    "name" : "点击，跳转到对应用例的链接地址",
+    "url" : "https://www.cnblogs.com/wintest",
+    "type" : "test_case"
+  }, {
+    "name" : "点击，跳转到对应BUG的链接地址",
+    "url" : "https://www.cnblogs.com/wintest",
+    "type" : "issue"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "single" ]
+  },
+  "source" : "fe06cfc0fff48b47.json",
+  "parameterValues" : [ "0", "'查询成功'", "True" ]
+}

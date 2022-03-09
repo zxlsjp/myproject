@@ -1,0 +1,31 @@
+[ {
+  "uid" : "481b2ced9b1de49c",
+  "name" : "测试数据：【 wintest1111，False，1004，查不到相关用户 】",
+  "time" : {
+    "start" : 1646766654447,
+    "stop" : 1646766654454,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "47df4acf966b9bfb",
+  "name" : "test_get_all_user_info[True-0-查询成功]",
+  "time" : {
+    "start" : 1646766654407,
+    "stop" : 1646766654426,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "24d024a07a6d18ce",
+  "name" : "测试数据：【 wintest4，True，0，查询成功 】",
+  "time" : {
+    "start" : 1646766654432,
+    "stop" : 1646766654441,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+} ]

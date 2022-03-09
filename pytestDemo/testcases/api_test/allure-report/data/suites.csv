@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 09 03:10:54 CST 2022","Wed Mar 09 03:10:54 CST 2022","9","testcases.api_test","test_01_get_user_info","TestGetUserInfo","","","测试数据：【 wintest4，True，0，查询成功 】","该用例是针对获取单个用户信息接口的测试"
+"passed","Wed Mar 09 03:10:54 CST 2022","Wed Mar 09 03:10:54 CST 2022","19","testcases.api_test","test_01_get_user_info","TestGetUserInfo","","","test_get_all_user_info[True-0-查询成功]","该用例是针对获取所有用户信息接口的测试"
+"passed","Wed Mar 09 03:10:54 CST 2022","Wed Mar 09 03:10:54 CST 2022","7","testcases.api_test","test_01_get_user_info","TestGetUserInfo","","","测试数据：【 wintest1111，False，1004，查不到相关用户 】","该用例是针对获取单个用户信息接口的测试"

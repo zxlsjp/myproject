@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases.api_test.test_01_get_user_info",
+    "children" : [ {
+      "name" : "test_get_all_user_info[True-0-查询成功]",
+      "uid" : "47df4acf966b9bfb",
+      "parentUid" : "1ebb87a667c45d68a60f9b93e4e98235",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646766654407,
+        "stop" : 1646766654426,
+        "duration" : 19
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "'查询成功'", "True" ]
+    }, {
+      "name" : "测试数据：【 wintest4，True，0，查询成功 】",
+      "uid" : "24d024a07a6d18ce",
+      "parentUid" : "1ebb87a667c45d68a60f9b93e4e98235",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646766654432,
+        "stop" : 1646766654441,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "0", "'查询成功'", "True", "'wintest4'" ]
+    }, {
+      "name" : "测试数据：【 wintest1111，False，1004，查不到相关用户 】",
+      "uid" : "481b2ced9b1de49c",
+      "parentUid" : "1ebb87a667c45d68a60f9b93e4e98235",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646766654447,
+        "stop" : 1646766654454,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'1004'", "'查不到相关用户'", "False", "'wintest1111'" ]
+    } ],
+    "uid" : "testcases.api_test.test_01_get_user_info"
+  } ]
+}
